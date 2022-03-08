@@ -1,0 +1,6 @@
+s1=input("enter the first string")
+s2=input("enter the second string")
+if s1[0]==s2[0]:
+    print("True",s1)
+else:
+    print("False",s2)
